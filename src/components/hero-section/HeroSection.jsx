@@ -34,7 +34,7 @@ function HeroSection() {
                         {/* typed text gelar mengarah ke jquery diatas */}
                         <p>enjoy in my website, situs web ini adalah tentang apa yang telah saya pelajari 
                             dan saya lakukan akhir-akhir ini. yaps ini adalah website portofolio dan project 
-                            saya. <br/><br/> Portfolio ini saya buat dengan menggunakan <strong>React JS x Vite</strong> - <a href='' className='linksport'>Github Portfolioku React</a>  </p>
+                            saya. <br/><br/> Portfolio ini saya buat dengan menggunakan <strong>React JS x Vite</strong> - <a href='https://github.com/akhmadazizmario/portfolio_ReactJS.git' className='linksport'>Github Portfolioku React</a>  </p>
 
                         <div className='mt-5 hero_btns d-flex align-items-center gap-4'>
                             <button className='btn hire_btn'><a href="mailto:akhmadazizmario@gmail.com" className='text-dark'> Hire Me </a> <i className="ri-mail-send-fill"></i></button>
