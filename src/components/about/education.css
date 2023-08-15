@@ -1,0 +1,46 @@
+
+.table{
+    border: none;
+    border-collapse: collapse;
+    border: 1px solid #132347 !important;
+    border-radius: 5px;
+}
+
+th{
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+    background: #003bec !important;
+    color: #fff !important;  
+} 
+
+td {
+    padding: 1rem 1rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    background: #132347 !important;
+    color: #fff !important;
+}
+
+thead {
+    background-color: #8c098a !important;
+    color: #fff;
+}
+
+/* td {
+    padding: 0.9rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+} */
+
+tr:nth-child(even){
+    background: #102048 !important;
+}
+
+
+@media screen and (max-width: 500px) {
+    th, td{
+        font-size: 0.6rem;
+        padding: 0.8rem;
+    }
+}

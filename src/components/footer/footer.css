@@ -1,0 +1,11 @@
+
+.footer{
+    border-top: 1px solid violet;
+    padding-top: 20px;
+}
+
+.footer p{
+    font-weight: 300;
+    font-size: 0.9rem;
+    
+}

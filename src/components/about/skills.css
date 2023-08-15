@@ -1,0 +1,27 @@
+
+
+.skills_wrapper{
+    background: #132347 !important;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.skill_bar{
+    width: 100%;
+    position: relative;
+    background: #99ade1 !important;
+    border-radius: 50zpx;
+    /* z-index: 999999; */
+    height: 5px;
+}
+
+
+@media screen and (max-width: 500px) {
+    .skill_title span{
+        font-size: 0.6rem;
+    }
+
+    .skill_title h6{
+        font-size: 0.6rem;
+    }
+}
