@@ -1,7 +1,8 @@
 import "./herosection.css";
 import { Container, Row, Col } from "reactstrap";
 
-import heroImg from "../../assets/gambar/profil.jpg";
+import bumi from "../../assets/gambar/bumi.png";
+import bulan from "../../assets/gambar/bulan.png";
 
 import { useEffect } from "react";
 // import { init } from 'ityped';
@@ -13,8 +14,9 @@ function HeroSection() {
       "Junior Web Developer",
       "Software Engineer",
       "Programmer",
+      "Product Management",
       "UI/UX Design",
-      "Cloud AWS Basic",
+      "Cloud Engineer",
       "IT Enthusiast",
     ];
     let index = 0;
@@ -79,9 +81,23 @@ function HeroSection() {
           </Col>
 
           <Col lg="5" md="6">
-            <div className="hero_img">
-              <img src={heroImg} alt="" className="w-100" />
-            </div>
+            {/* <div className="hero_img">
+              <img src={heroImg} alt="" className="w-100 rounded-image " />
+            </div> */}
+            <center>
+              <div className="solar-system">
+                <div className="earth-orbit">
+                  <div className="earth">
+                    <img src={bumi} alt="Earth" />
+                  </div>
+                </div>
+                <div className="moon-orbit">
+                  <div className="moon">
+                    <img src={bulan} alt="Moon" />
+                  </div>
+                </div>
+              </div>
+            </center>
           </Col>
         </Row>
       </Container>

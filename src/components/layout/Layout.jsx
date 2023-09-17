@@ -6,6 +6,7 @@ import Experience from "../experience/Experience";
 import Portfolio from "../portfolio/Portfolio";
 import Contact from "../contact/Contact";
 import Footer from "../footer/Footer";
+import Sertif from "../sertif/Sertif";
 
 function Layout() {
   return (
@@ -15,6 +16,7 @@ function Layout() {
       <About />
       <Experience />
       <Portfolio />
+      <Sertif />
       <Contact />
       <Footer />
     </Fragment>

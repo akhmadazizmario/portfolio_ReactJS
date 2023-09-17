@@ -9,8 +9,15 @@ import img05 from "../../assets/gambar/project5.png";
 import img06 from "../../assets/gambar/project6.png";
 import img07 from "../../assets/gambar/project7.png";
 import img08 from "../../assets/gambar/project8.png";
+import img09 from "../../assets/gambar/uiuxd.png"
 
 const portfolioData = [
+  {
+    imgUrl: img09,
+    title:
+      "Redesign web Fundex , project based Rakamin Academy",
+    url: "https://www.figma.com/proto/PX4oS8HeoaMw753HaCZupN/Wireframe?type=design&node-id=1-1031&t=asNmIa7TRUyVevOi-0&scaling=scale-down&page-id=1%3A3",
+  },
   {
     imgUrl: img01,
     title:

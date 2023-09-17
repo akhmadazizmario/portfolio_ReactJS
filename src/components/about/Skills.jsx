@@ -2,11 +2,11 @@ import "./skills.css";
 
 const frontendSkills = [
   {
-    title: "JavaScript",
+    title: "Amazon web Services (AWS)",
     width: "85%",
   },
   {
-    title: "React.JS",
+    title: "React JS",
     width: "85%",
   },
   {

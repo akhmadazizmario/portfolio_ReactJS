@@ -39,6 +39,14 @@
     margin-bottom: 10px;
 }
 
+.single_experience h4{
+    font-size: 1rem;
+    opacity: 75%;
+    font-weight: 300;
+    margin-bottom: 10px;
+    color: white !important;
+}
+
 .single_experience h5{
     font-size: 1.1rem;
     margin-bottom: 15px;
