@@ -14,13 +14,13 @@ const sertifData = [
   },
   {
     imgUrl: img02,
-    title: "AWS Certified Cloud Practitioner",
-    url: "https://www.credly.com/badges/ea327c05-6dbb-49e5-87c2-a5b78e7ddf32/public_url",
+    title: "project Based UI/UX Designer",
+    url: "https://drive.google.com/file/d/1rLkNuxmkHhpTAdSlQ23kKwg2LMRGcn29/view?usp=sharing",
   },
   {
     imgUrl: img03,
-    title: "AWS Certified Cloud Practitioner",
-    url: "https://www.credly.com/badges/ea327c05-6dbb-49e5-87c2-a5b78e7ddf32/public_url",
+    title: "Dicoding x DBS foundation Backend Developer",
+    url: "https://drive.google.com/file/d/10kSbvGhc7CWzpf4yTC1ob74MGBu2U9sA/view?usp=sharing",
   },
 ];
 
